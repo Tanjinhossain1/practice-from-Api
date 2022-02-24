@@ -1,0 +1,13 @@
+.center{
+    display: flex;
+    justify-content: center;
+    color: rgb(102, 61, 196);
+    font-size: 60px;
+}
+/* body{
+    background-color: black;
+    color: white;
+} */
+#container{
+    margin: 20px;
+}

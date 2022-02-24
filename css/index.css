@@ -1,0 +1,12 @@
+
+.add-style{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid tomato;
+    background-color: pink;
+    border-radius: 20px;
+}
+#container{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
